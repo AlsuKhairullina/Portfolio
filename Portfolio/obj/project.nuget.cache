@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EzjJc1zcFasaVsIFSCC6sidplhOR1MSc/B6kIr/cCPJyJj8wpF9IwN6vo1p+fx4Mqu9R83cqs1dj3NU7bLFMnA==",
+  "success": true,
+  "projectFilePath": "/Users/alsuhajrullina/RiderProjects/Portfolio/Portfolio/Portfolio.csproj",
+  "expectedPackageFiles": [
+    "/Users/alsuhajrullina/.nuget/packages/mailkit/3.1.1/mailkit.3.1.1.nupkg.sha512",
+    "/Users/alsuhajrullina/.nuget/packages/mimekit/3.1.1/mimekit.3.1.1.nupkg.sha512",
+    "/Users/alsuhajrullina/.nuget/packages/portable.bouncycastle/1.9.0/portable.bouncycastle.1.9.0.nupkg.sha512",
+    "/Users/alsuhajrullina/.nuget/packages/system.formats.asn1/6.0.0/system.formats.asn1.6.0.0.nupkg.sha512",
+    "/Users/alsuhajrullina/.nuget/packages/system.security.cryptography.pkcs/6.0.0/system.security.cryptography.pkcs.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

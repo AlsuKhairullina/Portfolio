@@ -1,0 +1,12 @@
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/bin/Debug/net6.0/EmailService.deps.json
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/bin/Debug/net6.0/EmailService.dll
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/bin/Debug/net6.0/EmailService.pdb
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/obj/Debug/net6.0/EmailService.csproj.AssemblyReference.cache
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/obj/Debug/net6.0/EmailService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/obj/Debug/net6.0/EmailService.AssemblyInfoInputs.cache
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/obj/Debug/net6.0/EmailService.AssemblyInfo.cs
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/obj/Debug/net6.0/EmailService.csproj.CoreCompileInputs.cache
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/obj/Debug/net6.0/EmailService.dll
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/obj/Debug/net6.0/refint/EmailService.dll
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/obj/Debug/net6.0/EmailService.pdb
+/Users/alsuhajrullina/RiderProjects/Portfolio/EmailService/obj/Debug/net6.0/ref/EmailService.dll
